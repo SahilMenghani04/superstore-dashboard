@@ -35,8 +35,8 @@ An interactive **Power BI dashboard** built to analyze Superstore sales data and
 
 ```
 screenshots/
-├── dashboard-overview.png
-└── dashboard-analysis.png
+├── dashboard.png
+└── dashboard.png
 ```
 
 ## 📁 Project Structure
